@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Chip-8 Emulator"
+date:   2015-05-9 15:03:00
+author: Evan Hackett
+categories:
+- project
+img: space-invaders.png
+thumb: thumb02.jpg
+carousel:
+- brix.png
+- pong.png
+- missile.png
+
+website: http://evanhackett.com/chip8/
+---
+####chip8
+Ever since I was a kid I have loved playing around with retro console emulators. My favorite system is the Super Nintendo, but that
+sounded too hard to emulate as a first attempt in emulation. After doing some research, I decided the Chip-8 was a good place to start. The emulator is written in javascript, no frameworks or libraries were used.
