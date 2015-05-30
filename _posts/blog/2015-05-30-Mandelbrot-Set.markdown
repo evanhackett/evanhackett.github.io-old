@@ -12,7 +12,7 @@ img: mandelbrot.png
 thumb: mandelbrot3.png
 ---
 
-Have you ever wondered how some of those amazing fractal images are created? Through a series of blog posts, I’m going to explain how to create amazing pictures using the Mandelbrot set. I will be using the javascript programming language, but any language will do as long as you have a way to draw pixels to a canvas. In this post, part 1, I will be going over prerequisite material needed to understand the Mandelbrot set.
+Have you ever wondered how some of those amazing fractal images are created? Through a series of blog posts, I’m going to explain how to create amazing pictures using the Mandelbrot set. I will be using the javascript programming language, but any language will do as long as you have a way to draw pixels to a canvas. In this post, part 1, I will be going over prerequisite material needed to understand the Mandelbrot set.<!--more-->
 
 So, what is the Mandelbrot set anyway? Let’s look at the [wikipedia definition][definition]: 
 
