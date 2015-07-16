@@ -22,6 +22,9 @@ colors:  #in hex code if not noted else
   footer_content: "#bfc9d3"
   
   
+# code snippet highlighting
+highlighter: pygments
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -29,7 +32,7 @@ social:
   - title: github
     url: https://github.com/evanhackett
   - title: linkedin
-    url: https://www.linkedin.com/pub/evan-hackett/8b/75a/b58
+    url: https://www.linkedin.com/in/hackettevan
   # - title: twitter
   #   url: 
   # - title: instagram
