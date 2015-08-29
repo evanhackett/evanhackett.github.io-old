@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "Watchout!"
+date:   2015-08-28 16:38:00
+author: Evan Hackett
+categories:
+- project
+img: watchout.png
+carousel:
+- watchout.png
+website: http://evanhackett.com/MandelbrotSet/
+---
+####Watchout!
+Watchout! is a game where the player moves an orb around in attempt to avoid the flying shurikens. The main purpose of the project was to learn and use the D3.js library in a fun way. "Watchout!" was one of the first assignments I did while attending Hack Reactor. Collect the cyan orbs to slow down the flying shurikens! What is your high score?
