@@ -6,6 +6,7 @@ author: Evan Hackett
 categories:
 - project
 img: watchout.png
+thumb: thumb02.jpg
 carousel:
 - watchout.png
 website: http://evanhackett.com/MandelbrotSet/
